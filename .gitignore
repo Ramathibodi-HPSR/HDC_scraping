@@ -1,4 +1,4 @@
 /.DS_Store
 /.venv
 /downloads
-/scripts/__pycache__
+**/__pycache__/
